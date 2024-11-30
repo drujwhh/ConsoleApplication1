@@ -15,7 +15,7 @@ int main() {
         cout << "Введите число" << endl;
         cin >> number;
         TrianglePS(number, res, res1);
-        cout << "Сторона: " << number << " " << "Периметр" << " " << res << " " << "Площадь" << " " << res1 << endl;
+        cout << "Сторона: " << number << " " << "Периметр классный" << " " << res << " " << "Площадь" << " " << res1 << endl;
     }
 
 
